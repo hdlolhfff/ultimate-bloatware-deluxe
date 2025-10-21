@@ -1,7 +1,3 @@
-# ultimate-bloatware-deluxe
-Modular Windows bloatware installer script (winget + Chocolatey) with Chaos Mode)
-
-
 # Ultimate Bloatware Deluxe + Chaos Mode
 
 This repository contains a **modular PowerShell script** that installs a variety of apps on Windows using **winget** and **Chocolatey**, including:
